@@ -11,3 +11,5 @@ public class MsuciasApplication {
 	}
 
 }
+
+// rmd, jpa, conexao com banco
